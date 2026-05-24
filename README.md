@@ -1,29 +1,50 @@
 # 👋 Hi, I'm Hassaan Khan!
+**Software Developer | Business Analyst | Applied AI Enthusiast**  
+Rawalpindi, Pakistan 🇵🇰
 
-### 🚀 Business Analyst | Software Developer | Freelancer
-
-I am a results-driven **Business Analyst** and **Software Developer** who bridges the gap between complex business requirements and technical execution. Since starting my professional journey in 2022, I have focused on building scalable web solutions and delivering data-driven insights.
-
----
-
-### 💻 About Me
-- 🔭 **Current Focus:** Delivering high-quality freelance projects and expanding my expertise in Python and Web Architecture.
-- 📊 **Business Intelligence:** Experienced in analyzing workflows and translating client needs into functional software.
-- 🎨 **Creative Design:** I bring a background in image editing and design to ensure every project has a polished UI/UX.
-- 🌍 **Multilingual:** Efficient communicator in English, Urdu, and Punjabi—ready to collaborate on global teams.
+I bridge the gap between complex engineering, data architectures, and real-world software execution. With a solid track record in full-stack web engineering and cross-platform mobile development, I specialize in building scalable systems and integrating machine learning workflows.
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🔬 Featured Research & Core Project
 
-| Category | Technologies |
+### 🎯 Accent Builder (Undergraduate Thesis)
+An innovative deep learning speech processing and acoustic analysis system.
+* **Core AI/ML Backend:** Engineered feature extraction algorithms and trained speech models using **PyTorch, TensorFlow, and Librosa**.
+* **Cross-Platform Interfaces:** Built a highly responsive web application in **React.js** and a seamless mobile client using **Flutter & Dart**.
+
+---
+
+## 💼 Industry Experience
+
+* **Full Stack Developer & Software Specialist** @ *IGS Health Care*  
+  Architected and deployed the official production web platform from scratch using **React.js**. Handled core code optimization, performance debugging, and custom data reporting automation[cite: 1].
+* **Business Analyst & Senior Operations Manager** @ *Al-Qasim Enterprises*  
+  Managed comprehensive corporate office operations, financial data modeling, and regulatory compliance mapping[cite: 1].
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Development** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
-| **Design** | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Design](https://img.shields.io/badge/UI/UX-Design-orange?style=for-the-badge) |
+| **Frontend & Mobile** | React.js, Next.js, HTML5, CSS3, JavaScript, Flutter, Dart[cite: 1] |
+| **Backend & AI/ML** | Python (OOP), Node.js, PyTorch, TensorFlow, Librosa, TTS Models[cite: 1] |
+| **Data & Automation** | Excel Automation (Macros, Pivot Tables, Advanced Formulas), Data Modeling[cite: 1] |
+| **Tools & Methodologies** | Git/GitHub, Agile Project Management, WordPress, Cybersecurity Awareness[cite: 1] |
 
+---
 
+## 🌍 Language Competency
+* **Mandarin Chinese:** Module 1 Competency Certificate — *Shanghai Jiao Tong University*[cite: 1]
+* **English, Urdu, & Punjabi:** Fluent/Professional working proficiency[cite: 1]
 
-### 📫 Connect With Me
-- 📧 **Email:** [hassan19620@gmail.com](mailto:hassan19620@gmail.com)
-*"Empowering businesses through clean code and strategic analysis."*
+---
+
+## 📫 Connect With Me
+
+* 📧 **Email:** hassan19620@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/iamhassaankhan](https://www.linkedin.com/in/iamhassaankhan/)[cite: 1]
+
+---
+*Note: A significant portion of my commercial development and production codebases are hosted on private enterprise servers[cite: 1]. Feel free to review my pinned public repositories!*
